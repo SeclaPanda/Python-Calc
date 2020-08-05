@@ -1,21 +1,5 @@
 print("Program begin")
-"""
-a = input('Enter number 1:') User input
-b = input('Enter number 2:')
-if a > b: 
-	print(a) 
-	print(b)
-elif a == b: if if if - bullshit if elif elif - good code
- 	print("Number is equal")
-else:
-	print(b)
-	print(a)
-print('spam'*3) you can multiply word
-a = 20
-b = a / 6 
-c = a % 6
-print(a, b, c)
-"""
+
 while True:
 	print("Options:")
 	print("Enter 'add' or '+' to add numbers")
